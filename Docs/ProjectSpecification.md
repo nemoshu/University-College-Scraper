@@ -30,7 +30,7 @@ Developers are also advised to create additional specifications for each module,
 
 ## Section 1C: Requirements for Database Module
 
-## Section 1D: Requirements for the ICS / Subscrition Manager Module
+## Section 1D: Requirements for the ICS / Subscription Manager Module
 
 ## Section 1E: Requirements for the Front-end
 
